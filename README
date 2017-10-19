@@ -1,11 +1,8 @@
 # MemN2N PyTorch Implementation
 
-PyTorch implementation of [End-To-End Memory Networks, NIPS 2015](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
+PyTorch implementation of [End-To-End Memory Networks, NIPS 2015](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
 
 ![model-architecture](./arts/architecture.png)
-
-
-## Results
 
 
 ## Installation
