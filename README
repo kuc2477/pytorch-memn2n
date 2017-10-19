@@ -18,7 +18,7 @@ Implementation CLI is provided by `main.py`.
 #### Usage 
 ```
 $ ./main.py --help
-usage: End-to-End Memory Network PyTorch Implementation [-h]
+$ usage: End-to-End Memory Network PyTorch Implementation [-h]
                                                         [--vocabulary-size VOCABULARY_SIZE]
                                                         [--embedding-size EMBEDDING_SIZE]
                                                         [--sentence-size SENTENCE_SIZE]
@@ -61,7 +61,6 @@ $ ./main.py --test
 
 ## Reference
 - [End-To-End Memory Networks, NIPS 2015](http://proceedings.mlr.press/v70/kim17b/kim17b.pdf)
-
 
 
 ## Author
